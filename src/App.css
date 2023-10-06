@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container1 {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.card1 {
+  width: 290px;
+  height: 350px;
+  background-color: rgb(1, 132, 255);
+  margin: 90px 20px 0px 0px;
+  padding: 130px 0px 0px 0px;
+}
+.ddd {
+  display: flex;
+  flex-wrap: wrap;
+}
